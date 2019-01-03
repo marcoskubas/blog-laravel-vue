@@ -11,9 +11,7 @@
 
                 <div class="row">
                     <div class="col-md-4">
-                        <painel title="Conteúdo 1" color="panel-blue">
-                            Teste de conteúdo
-                        </painel>
+                        <box></box>
                     </div>
 
                     <div class="col-md-4">
